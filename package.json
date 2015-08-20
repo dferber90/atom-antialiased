@@ -1,0 +1,25 @@
+{
+  "name": "antialiased",
+  "main": "./lib/antialiased",
+  "version": "0.0.0",
+  "description": "Crisp readable text for retina displays.",
+  "author": {
+    "name": "Dominik Ferber"
+  },
+  "keywords": [
+    "font",
+    "smoothing",
+    "smooth",
+    "text",
+    "crisp",
+    "sharp",
+    "antialiased",
+    "antialiasing",
+    "retina"
+  ],
+  "repository": "dferber90/atom-antialiased",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0"
+  }
+}
